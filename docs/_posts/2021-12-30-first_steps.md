@@ -29,3 +29,8 @@ The first idea of collaboration focuses on robota autonomous piloting using Deep
 - [Robust Real-Time Traffic Surveillance with Deep Learning](https://www.hindawi.com/journals/cin/2021/4632353/)
 
 ## Robotics Academy
+On the other hand, I have had a first contact with the infrastructure provided by [Robotics Academy](https://jderobot.github.io/RoboticsAcademy/) that allows the learning and development of Deep Learning projects in a simple way. In particular, I have focused on two of it:
+
+- [Digit Clasifier](https://jderobot.github.io/RoboticsAcademy/exercises/ComputerVision/dl_digit_classifier)
+
+- [Human Detection](https://jderobot.github.io/RoboticsAcademy/exercises/ComputerVision/human_detection)
